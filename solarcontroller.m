@@ -19,3 +19,5 @@ good_temp = input('Enter your preferable indoor temperature: ');
 
 
 % find the minimum and set it later
+
+Edit
